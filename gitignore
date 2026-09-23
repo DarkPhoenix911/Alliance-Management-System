@@ -1,0 +1,23 @@
+# Local Apps Script project mapping and authentication
+.clasp.json
+.clasprc.json
+
+# Local environment settings
+.env
+.env.*
+!.env.example
+
+# Installed dependencies
+node_modules/
+
+# Local logs and temporary editor files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
