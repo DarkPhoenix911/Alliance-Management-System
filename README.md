@@ -1,3 +1,17 @@
+# ⚠️ LEGAL NOTICE & LICENSE COMPLIANCE
+
+This software is source-available but **strictly protected by copyright law**. It is licensed under the **PolyForm Strict License 1.0.0**. 
+
+By viewing or using this repository, you agree to the following absolute restrictions:
+
+* **NO MODIFICATIONS:** You are not permitted to change, alter, or adapt this source code in any way.
+* **NO DISTRIBUTION / UPLOADING:** You are not permitted to upload this code to other repositories, hosting platforms, or public spaces. You cannot distribute copies of this software.
+* **NO WRAPPERS OR RE-BRANDING:** You cannot take this code, wrap it in another application (such as a mobile app, web app, or API), or pass it off as your own work.
+* **PERSONAL & PRIVATE USE ONLY:** You may only run and use this software privately for personal research, study, or entertainment. Any public hosting, deployment, or commercial application is strictly forbidden.
+
+### 🚫 Enforcement Notice
+Any unauthorized use, modification, distribution, or re-branding of this software constitutes **copyright infringement**. We actively monitor for compliance and will immediately issue **DMCA Takedown Notices** and pursue legal action against any individuals, websites, repositories, or app store listings that violate these terms.
+
 # Alliance Management System (AMS)
 
 **Institutional memory and practical administration for Whiteout Survival alliance leadership.**  
@@ -74,11 +88,11 @@ Future directions, **not included promises for this candidate**, include activit
 
 # Support and feedback
 
-Use this repository's Issues section when enabled, or email **alliancemanagementsystem@gmail.com**. Bug reporting is voluntary. Do not post private incident screenshots, real player records, OAuth tokens, or unrestricted workbook links in a public issue. A dedicated optional bug-report Form may be linked here when available.
+Use this repository's Issues section, or email **alliancemanagementsystem@gmail.com**. Bug reporting is voluntary. Do not post private incident screenshots, real player records, OAuth tokens, or unrestricted workbook links in a public issue. A dedicated optional bug-report Form may be linked here when available.
 
 # License
 
-AMS is source-available under the **[official PolyForm Noncommercial License 1.0.0](LICENSE.md)**. Noncommercial rights are governed by the complete, unmodified license text; commercial rights are reserved. This is **not** a claim of OSI-approved open-source licensing. Confirm that the release repository contains that license at the linked filename before publication.  
+AMS is source-available under the **[official PolyForm Strict License 1.0.0](LICENSE.md)**. Permitted purposes are governed by the complete, unmodified license text; all other rights (including modification and distribution) are reserved. This is **not** a claim of OSI-approved open-source licensing. Confirm that the release repository contains that license at the linked filename before publication.  
 Copyright © 2026 **DarkPhoenix911**.
 
 # Unofficial fan project
