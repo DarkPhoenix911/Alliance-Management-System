@@ -99,7 +99,7 @@ Copyright © 2026 **DarkPhoenix911**.
 
 Alliance Management System is an independent community tool, not affiliated with, sponsored by, or endorsed by Whiteout Survival, its publisher, or Google. Game and platform names belong to their respective owners.
 
-### 🤝 Collaboration & Partnership Inquiries
+# 🤝 Collaboration & Partnership Inquiries
 
 If you are interested in collaborating, working together on a new version of this project, or entering into a formal partnership, please contact the developer directly. 
 
