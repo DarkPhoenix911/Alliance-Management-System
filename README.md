@@ -98,3 +98,12 @@ Copyright © 2026 **DarkPhoenix911**.
 # Unofficial fan project
 
 Alliance Management System is an independent community tool, not affiliated with, sponsored by, or endorsed by Whiteout Survival, its publisher, or Google. Game and platform names belong to their respective owners.
+
+### 🤝 Collaboration & Partnership Inquiries
+
+If you are interested in collaborating, working together on a new version of this project, or entering into a formal partnership, please contact the developer directly. 
+
+Collaboration is welcome, provided the following criteria are met:
+* **Shared Vision:** Any collaborative efforts must stay strictly true to the original vision and direction of the project.
+* **License Integrity:** The project will remain under the PolyForm Strict License 1.0.0; the license type cannot be changed or bypassed.
+* **Code Ownership:** The developer retains complete intellectual property ownership of the codebase and all contributions unless explicitly negotiated and agreed to otherwise in writing.
