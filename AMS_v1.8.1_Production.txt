@@ -5,9 +5,18 @@
  * Formulas calculate. Scripts move data.
  * Automation assists. Leadership decides.
  *
- * See accompanying LICENSE and INSTALLATION.md.
+ * Required Notice: Copyright (c) 2026 DarkPhoenix911
+ *
+ * Licensed under the PolyForm Strict License 1.0.0
+ * https://polyformproject.org/licenses/strict/1.0.0
+ *
+ * You may read this software and use it for permitted purposes under the
+ * license. Modification, derivative works, and redistribution are not
+ * permitted without a separate written license from the copyright holder.
+ *
+ * The complete license text is in the LICENSE file of the AMS repository.
+ * For permission requests: alliancemanagementsystem@gmail.com or contact.md
  ************************************************************/
-
 const AMS = {
     version: '1.8.1',
     sheets: {
