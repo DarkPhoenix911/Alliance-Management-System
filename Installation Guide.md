@@ -1,3 +1,9 @@
+---
+layout: default
+title: AMS Installation Guide
+permalink: /installation/
+---
+
 # Install Alliance Management System (AMS)
 
 **v1.8.1 public-beta candidate — clean-install and upgrade guide. A live two-pass installation and one incident-to-ban workflow succeeded. This is not a certified v2.0.0 release or a claim of Google OAuth verification.** Follow this guide with the matching complete `AMS_v1.8.1_Production.gs` source. Google may vary the wording of buttons and consent prompts by account, browser, and authorization mode. If you would rather download the code and copy/paste, there is an optional .txt file included that is exactly the same.
