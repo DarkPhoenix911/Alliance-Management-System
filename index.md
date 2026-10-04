@@ -6,8 +6,8 @@ permalink: /
 
 ## Navigation
 
-* [Read Me](README.md)
-* [Installation Guide](/installation/)
-* [User Manual](User%20Manual.md)
+* [Read Me](readme.md)
+* [Installation Guide](installation-guide.md)
+* [User Manual](user-manual.md)
 * [Privacy Policy](privacy-policy.md)
 * [Contact Me](contact.md)

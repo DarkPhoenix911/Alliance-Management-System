@@ -1,8 +1,7 @@
 ---
-
 layout: default
 title: Contact Me
------------------
+---
 
 # Contact Me
 
@@ -40,6 +39,5 @@ The AMS project is available publicly on GitHub, where you can review the source
 
 **[Alliance Management System on GitHub](https://github.com/DarkPhoenix911/Alliance-Management-System)**
 
----
 
 *Alliance Management System — “AMS informs, humans make decisions.”*
