@@ -23,4 +23,4 @@ If you have any questions or want to suggest new features, I've included multipl
 * [User Manual](user-manual.md)
 * [Contact Me](contact.md)
 * [Privacy Policy](privacy-policy.md)
-* [License](license.md)
+* [License](LICENSE.md)
