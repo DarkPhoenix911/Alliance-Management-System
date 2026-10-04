@@ -1,3 +1,10 @@
+---
+layout: default
+title: AMS License and Required Notice
+---
+
+Required Notice: Copyright (c) 2026 DarkPhoenix911
+
 # PolyForm Strict License 1.0.0
 
 <https://polyformproject.org/licenses/strict/1.0.0>
