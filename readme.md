@@ -80,7 +80,7 @@ For the Incident Form, a user-provided player-profile screenshot with the Copy I
 The workbook and Forms are created under the installing account; the alliance controls who receives access. AMS operates with that account's authorization and records data in that account's Google resources. The developer does not receive automatic access to the workbook or uploaded evidence, and the production source has **no developer-facing telemetry or automatic bug-report transmission**. The local **AMS Log** and Google's own platform logs are separate from developer telemetry.  
 Google may display broad-sounding permissions for Sheets, Forms, and Drive because Apps Script analyzes the source and requests access for the services it uses. In this candidate, Drive access also supports safe recovery of a newly created Form if installation is interrupted before its ID is saved. Trigger permissions allow scheduled and edit/form-submit processing. Read the consent screen; do not approve unfamiliar access requests simply because a README tells you to. For the candidate's expected categories and where to click, see [Granting access in the installation guide](https://docs.google.com/document/d/1057tjuOWtmb_1OW15SAt_CBD1xLPsX8TH4v6V126Bxc/edit).  
 **File Upload questions may require respondents to sign in to Google.** Leaving the member-name question empty is not a guarantee of technical anonymity. Uploaded files are held through the installing account's Google Forms/Drive configuration, and access to a shared workbook or linked files should be restricted to trusted leadership. Hidden sheets are *not* a confidentiality boundary for people who already have access to the workbook.  
-The developer's Privacy Policy is included in this repository as privacy-policy.md. Future Google OAuth/Cloud verification is not claimed as completed. Copying source into a user's own spreadsheet-bound Apps Script project does not automatically attach that new project to a developer's Google Cloud OAuth client or grant it the developer's verification status.
+The developer's [Privacy Policy](privacy-policy.md) is included in this repository. Future Google OAuth/Cloud verification is not claimed as completed. Copying source into a user's own spreadsheet-bound Apps Script project does not automatically attach that new project to a developer's Google Cloud OAuth client or grant it the developer's verification status.
 
 # Using AMS responsibly
 
@@ -97,7 +97,7 @@ Use this repository's Issues section, or email **alliancemanagementsystem@gmail.
 
 # License
 
-AMS is source-available under the **[official PolyForm Strict License 1.0.0](LICENSE.md)**. Permitted purposes are governed by the complete, unmodified license text; all other rights (including modification and distribution) are reserved. This is **not** a claim of OSI-approved open-source licensing. Confirm that the release repository contains that license at the linked filename before publication.  
+AMS is source-available under the **[official PolyForm Strict License 1.0.0](LICENSE.md)**. Permitted purposes are governed by the complete, unmodified license text; all other rights (including modification and distribution) are reserved. This is **not** a claim of OSI-approved open-source licensing.
 Copyright © 2026 **DarkPhoenix911**.
 
 # Unofficial fan project
