@@ -9,7 +9,7 @@ permalink: /privacy/
 **Effective date:** October 3, 2026  
 **Developer:** DarkPhoenix911  
 **Privacy contact:** alliancemanagementsystem@gmail.com or Discord: `darkphoenix911`  
-**Official website:** In development; no official AMS website is operating yet.
+**Official website:** [Temporary Website](https://darkphoenix911.github.io/Alliance-Management-System/)
 
 ## 1. Scope and responsibility
 
