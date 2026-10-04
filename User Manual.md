@@ -1,3 +1,10 @@
+---
+layout: default
+title: AMS User Manual
+---
+
+# Install Alliance Management System (AMS)
+
 # Alliance Management System (AMS) — User Manual
 
 **A practical guide for alliance leaders**   **Applies to:** AMS v1.8.1 production candidate and its two-Form installation design   **For installing AMS from scratch:** see [INSTALLATION.md](https://docs.google.com/document/d/1057tjuOWtmb_1OW15SAt_CBD1xLPsX8TH4v6V126Bxc/edit).   **For project background and licensing:** see README.md.  
