@@ -1,3 +1,8 @@
+---
+layout: default
+title: Read Me
+---
+
 # ⚠️ LEGAL NOTICE & LICENSE COMPLIANCE
 
 This software is source-available but **strictly protected by copyright law**. It is licensed under the **PolyForm Strict License 1.0.0**. 
